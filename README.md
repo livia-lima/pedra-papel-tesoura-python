@@ -12,7 +12,19 @@
    <h3> ꒰💌꒱ O que aprendi </h3>
  </div> 
  
-- Nada por aqui ainda :)
+ (Conceitos que eu não tinha visto ainda, e que foram aprendidos durante esse projeto)
+ 
+<details>
+  <summary>Ceil()</summary>
+  
+  - função que retorna um falor x, o qual é maior ou igual a zero
+  - sintaxe: 
+  
+<pre><code> import math
+  math.ceil(x)
+</code></pre>
+
+</details>
 
 <div align="center">
  <h3> ꒰💌꒱ Links utilizados </h3>
